@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474552588862",
+    "project_id": "testandroidappin",
+    "storage_bucket": "testandroidappin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474552588862:android:bc458c7c3895fb9753cf6f",
+        "android_client_info": {
+          "package_name": "com.google.samples.apps.sunflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474552588862-5omapsmlikcbkj9js2gak3aoo7od5ufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWixkvGt4nFWoonQBtROmjuyR8752qgok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474552588862-5omapsmlikcbkj9js2gak3aoo7od5ufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
